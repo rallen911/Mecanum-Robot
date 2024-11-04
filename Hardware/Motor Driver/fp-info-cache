@@ -1,4 +1,4 @@
-23839632704659758
+23841363964930180
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96739,6 +96739,13 @@ Varistor VF
 0
 2
 2
+motor driver
+86Carrera_logo
+
+
+0
+0
+0
 motor driver
 TB6612FNG Module_2x08_P2.54_W15.24mm
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
